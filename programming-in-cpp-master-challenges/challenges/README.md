@@ -104,45 +104,4 @@ number of support libraries are provided. Documentation on the different
 libraries, how to use them in your programs can be found in the docs directory
 and the root [docs/index.html](docs/index.html) page.
 
-Timetable
-=========
 
-The modules timetable is as below. Please note that you are required to attend
-all lectures, one seminar, and two practicals per week. Your personal timetable,
-in myUWE, will provide information on the specific seminar and practical
-sessions you are expected to attend; it is important that you attend these ones
-and not others, as attendance is recorded.  
-
-| Day       | Start | End   | Type      | Room    | Staff           |
-|-----------|-------|-------|-----------|---------|-----------------|
-| Tuesday   | 9:00  | 10:00 | Lecture   | 2D07 FR | Benedict Gaster |
-| Tuesday   | 14:00 | 15:00 | Seminar   | 3Q16 FR | Benedict Gaster |
-| Wednesday | 11:00 | 12:00 | Lecture   | 4Q69 FR | Benedict Gaster |
-| Thursday  | 9:00  | 10:30 | Practical | 2Q52 FR | Craig Duffy     |
-| Thursday  | 10:30 | 12:00 | Practical | 2Q52 FR | Benedict Gaster |
-| Thursday  | 12:00 | 13:00 | Seminar   | 3Q16 FR | Benedict Gaster |
-| Thursday  | 14:00 | 15:30 | Practical | 2Q52 FR | Craig Duffy     |
-| Thursday  | 15:30 | 17:00 | Practical | 2Q52 FR | Benedict Gaster |
-| Friday    | 9:00  | 10:30 | Practical | 2Q52 FR | Nathan Renney   |
-| Friday    | 10:30 | 12:00 | Practical | 2Q52 FR | Ian Johnson     |
-| Friday    | 14:00 | 15:30 | Practical | 2Q52 FR | Nathan Renney   |
-| Friday    | 15:30 | 17:00 | Practical | 2Q52 FR | Ian Johnson     |
-
-Contact
-========
-
-Dr Benedict R. Gaster  
-2Q17  
-benedict.gaster@uwe.ac.uk
-
-Craig Duffy  
-2Q17  
-craig.duffy@uwe.ac.uk
-
-Ian Johnson  
-2Q17  
-ian.johnson@uwe.ac.uk
-
-Nathan Renney  
-XXXX  
-xxx@uwe.ac.uk
